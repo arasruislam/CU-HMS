@@ -2,8 +2,6 @@
 
 The **Hospital Management System (HMS)** is a Java-based terminal project designed to streamline the basic operations of a hospital. The system supports three types of users: **Admin**, **Doctor**, and **Patient**, each with distinct roles and functionalities. The primary goal of the system is to efficiently manage appointments, user accounts, and administrative tasks without the use of a database (for now).
 
-This project will help your team understand core concepts like object-oriented programming, user management, role-based access, and appointment scheduling, while building a system that could later be expanded to include additional features.
-
 ---
 
 ## Key Features
@@ -43,5 +41,3 @@ This project will help your team understand core concepts like object-oriented p
 ## Future Potential
 
 While this project currently operates without a database, it has been designed with flexibility to expand. In the future, a database can be integrated to store user and appointment data persistently. Additional features like billing, patient medical records, and notifications can also be added.
-
-This system introduces your team to core software engineering concepts and provides a stepping stone to more complex systems in the future.
